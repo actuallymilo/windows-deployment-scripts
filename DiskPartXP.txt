@@ -1,0 +1,6 @@
+sel dis 0
+cle
+cre par pri
+for fs=ntfs quick
+act
+ass letter=W

@@ -1,0 +1,9 @@
+sel dis 0
+cle
+cre par pri size=350
+for fs=ntfs quick label="System Reserved"
+act
+ass letter=S
+cre par pri
+for fs=ntfs quick label="Windows"
+ass letter=W
